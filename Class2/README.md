@@ -24,6 +24,7 @@ class ClassName {
  * Attributes
  * Methods
  * Constructor
+ 
  **Attributes:** Class attributes are just variables from a general programming point of view. But when it comes to Object Oriented Programming, these class attributes define the state of the class objects.
 
 Following class defines a class named Student, with three attributes.
