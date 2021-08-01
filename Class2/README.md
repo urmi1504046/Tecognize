@@ -30,24 +30,24 @@ Following code defines a class.
 
 Following class defines a class named Student, with three attributes.
 
-class Student {
-   string name;
-   int id;
-   int section;
-};
+  class Student {
+    string name;
+     int id;
+     int section;
+     };
 
 **Methods:** Methods of a class defines the behavior of the class objects. Class methods are functions that can be accessed within the class or on the class objects.
 
 Following example, defines a class named Student with method printDetails()
 
-class Student {
-   //attributes
-   string name;
-   int id;
-   int section;
+   class Student {
+      //attributes
+       string name;
+       int id;
+       int section;
  
-   //methods
-   void printDetails(){
+    //methods
+    void printDetails(){
       cout << "Name : " << name << endl;
       cout << "id : " << name << endl;
       cout << "Section : " << name << endl;
@@ -68,24 +68,24 @@ concepts which contains both the data and the function, which operates on the da
 To create a class object, you have to declare a variable with the class type, just like you declare an integer with variable name and int datatype.
 
 In the following, example, we shall define a class named Student and create an object for this class in the main method.
-class Student {
-   public:
-   string name;
-   int id;
-   int section;
+  class Student {
+    public:
+     string name;
+     int id;
+     int section;
  
-   public:
-   void printDetails(){
-      cout << "Name : " << name << endl;
-      cout << "id : " << name << endl;
-      cout << "Section : " << name << endl;
-   }
-};
+    public:
+    void printDetails(){
+       cout << "Name : " << name << endl;
+       cout << "id : " << name << endl;
+       cout << "Section : " << name << endl;
+    }
+  };
  
-int main() {
-   //create class object
-   Student student_1;
-}
+   int main() {
+    //create class object
+    Student student_1;
+  }
 An object with variable name **student_1** of type Student has been created.
 
 ## 4) What is the difference between a class and a structure?
