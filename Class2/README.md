@@ -84,10 +84,11 @@ In the following, example, we shall define a class named Student and create an o
     }
   };
  
-   int main() {
+    int main() {
     //create class object
     Student student_1;
-  }
+      }
+      
 An object with variable name **student_1** of type Student has been created.
 
 ## 4) What is the difference between a class and a structure?
