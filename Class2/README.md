@@ -40,11 +40,13 @@ Following class defines a class named Student, with three attributes.
 
 Following example, defines a class named Student with method printDetails()
 
-   class Student {
+    
+    class Student {
+   
       //attributes
-       string name;
-       int id;
-       int section;
+          string name;
+          int id;
+          int section;
  
     //methods
     void printDetails(){
