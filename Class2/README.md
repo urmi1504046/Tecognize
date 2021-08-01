@@ -15,10 +15,11 @@ Toyota, etc. Its properties(data) can be price or speed of these cars. While the
 
 Following code defines a class.
 
-class ClassName {
-   //attributes
-   //methods
-};
+   class ClassName {
+
+    //attributes
+    //methods
+         };
 
 **Class Properties**
  * Attributes
