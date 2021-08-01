@@ -53,8 +53,8 @@ Following example, defines a class named Student with method printDetails()
       cout << "Name : " << name << endl;
       cout << "id : " << name << endl;
       cout << "Section : " << name << endl;
-   }
-};
+      }
+      };
 
  
  
